@@ -1,0 +1,17 @@
+.cart {
+  width: 350px;
+  height: 450px;
+  margin: 2px;
+  box-shadow: 2p 2px 4px orangered;
+  background-color: rgb(247, 241, 241);
+  border-radius: 10px;
+}
+.player-img {
+  width: 250px;
+}
+.cart-btn {
+  padding: 9px 15px;
+  margin: 3px;
+  border: none;
+  background-color: orange;
+}
