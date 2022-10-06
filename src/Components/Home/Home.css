@@ -20,7 +20,7 @@
   /* border: none; */
   color: white;
 }
-.cart-info-container {
+.cart {
   border: 2px solid orangered;
   background-color: rgb(243, 215, 173);
   box-shadow: 4px 4px 2px orangered;
